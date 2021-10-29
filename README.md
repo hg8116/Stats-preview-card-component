@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend-Mentor-Submission](https://www.frontendmentor.io/solutions/statspreviewmobilefirst-2XMGgmhp7)
+- Live Site URL: [Stats-Preview-Card-Component](https://hg8116.github.io/Stats-preview-card-component/)
 
 ## My process
 
@@ -42,7 +42,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
